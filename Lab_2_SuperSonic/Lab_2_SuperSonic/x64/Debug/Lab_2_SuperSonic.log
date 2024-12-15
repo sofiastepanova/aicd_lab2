@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\User\Desktop\Lab_2_SuperSonic\Lab_2_SuperSonic\linked_list.h(52,9): warning C4984: "if constexpr" — расширение языка C++17
+C:\Users\User\Desktop\Lab_2_SuperSonic\Lab_2_SuperSonic\linked_list.h(232,2): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "LinkedList<T>"
+C:\Users\User\Desktop\Lab_2_SuperSonic\Lab_2_SuperSonic\linked_list.h(60,14): warning C4984: "if constexpr" — расширение языка C++17
+  Lab_2_SuperSonic.vcxproj -> C:\Users\User\Desktop\Lab_2_SuperSonic\x64\Debug\Lab_2_SuperSonic.exe
